@@ -1,4 +1,4 @@
-a=1
+a=10
 b=33
 print(a+1)
 print(a+b)
